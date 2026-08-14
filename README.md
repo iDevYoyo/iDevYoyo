@@ -56,15 +56,16 @@ I also recently won 1st Place in a Roblox DevRel Challenge, earning the exclusiv
 
 ---
 
-## Featured Projects
+## Featured Projects & Roles
 
-Here are a few systems I've built and shipped for live games.
+Here are a few systems I've built and roles I've held for live games.
 
 ### 1st Place DevRel Challenge
 *My winning submission showcasing advanced mechanics and clean architecture.*
 [![DevRel Challenge](https://img.youtube.com/vi/YOUR_YOUTUBE_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_ID_HERE)
 
-### Lead Developer Roles & Applied Systems:
+### Applied Systems & Lead Developer Roles:
+* **Upsetioz British Army:** Currently serving as a Trial Engineer, coding and maintaining core systems for their inspection game.
 * **Head Developer Roles:** Lead Scripter for *Trade Tower Advanced* and *Test Your Jackpot Luck*.
 * **E F F Y UGC Shop** *(Upcoming)*: Programmed a complete UGC economy, custom avatar creator, dynamic leaderboards, and an interactive Picnic claim system.
 * **The Color Plex**: Implemented first-person mechanics, graphics optimization, interaction systems (doors, buttons), and custom tools.
