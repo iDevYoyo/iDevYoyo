@@ -1,79 +1,81 @@
 <div align="center">
 
-# Yoyo (Idevyoyo) | Advanced Roblox Scripter & Software Developer
-**Civil Computer Engineering Student | 5+ Years Experience | 5.0 ⭐ Top-Rated on Fiverr**
+# Yoyo (Idevyoyo) | Advanced Roblox Scripter & Programmer
+**Civil Computer Engineering Student | 5+ Years Experience | Top-Rated on Fiverr**
 
 </div>
 
 ---
 
-## 👤 About Me
+## About Me
 
-I am a 19-year-old software developer from Chile, currently studying Civil Engineering in Computing. I am fully bilingual (Native Spanish & Fluent English) and have been scripting highly scalable code within Roblox Studio since 2018.
+Hi, I'm Yoyo. I'm a 19-year-old developer from Chile, currently studying Civil Engineering in Computing. I am fully bilingual (Spanish and English) and have been scripting in Roblox Studio since 2018.
 
-I bridge formal academic software engineering principles with practical, high-performance game development. Unlike typical scripters, I build **secure, optimized, and robust systems**, with a strict focus on preventing data loss and server-side exploits in production environments. 
+Instead of just hacking things together, my focus is on writing clean, secure, and optimized code. I try to combine what I'm learning at university with my practical experience to build robust systems—especially when it comes to preventing data loss and stopping server-side exploits. 
 
-🏆 **Officially Recognized:** 1st Place Winner in a Roblox DevRel Challenge (Earner of the *Crown of Knowledge*).
+I also recently won 1st Place in a Roblox DevRel Challenge, earning the exclusive Crown of Knowledge.
 
 ---
 
-## 🛠️ What I Build
+## What I Build
+
+*(Note: I strictly do programming and scripting. I do not offer building or 3D modeling services).*
 
 <details>
-<summary><b>💎 Economy & UGC Systems</b></summary>
+<summary><b>Economy & UGC Systems</b></summary>
 <br>
 
 * Advanced UGC shops with real-time stock tracking.
 * MarketplaceService integration and Limiteds tracking.
 * Secure trading systems and in-game currencies.
-* Experience safely handling 5,000+ UGC assets.
+* Handling heavy loads safely (managing 5,000+ UGC assets).
 * **Tech:** Luau, RemoteEvents, ProfileService.
 </details>
 
 <details>
-<summary><b>⚔️ Core Gameplay & Combat</b></summary>
+<summary><b>Gameplay & Combat Mechanics</b></summary>
 <br>
 
 * Smooth combat systems (Swords, Firearms, Custom Abilities).
 * Movement mechanics (Sprinting, Dashing, Stamina Bars).
-* Full PC & Mobile optimization (Touch GUI + responsive design).
-* Animation-driven gameplay with precise Hitboxes.
+* PC & Mobile optimization (Touch GUIs + responsive design).
+* Animation-driven gameplay with precise hitboxes.
 * **Tech:** Raycasting, Custom Hitboxes, Animation Editor Integration.
 </details>
 
 <details>
-<summary><b>🛡️ Backend, Security & DataStores</b></summary>
+<summary><b>Backend, Security & DataStores</b></summary>
 <br>
 
-* Bulletproof data management using **ProfileService**.
+* Reliable data management using ProfileService.
 * Server-authoritative logic to prevent client-side exploits.
-* Custom admin panels and automation systems.
+* Custom admin panels and game automation systems.
 * Day/Night cycles, weather systems, and dynamic leaderboards.
 * **Tech:** Remote Functions, Event-driven architecture.
 </details>
 
 ---
 
-## 🎬 Featured Projects
+## Featured Projects
 
-Below are demonstrations of systems I have engineered for production environments.
+Here are a few systems I've built and shipped for live games.
 
-### 🏆 1st Place DevRel Challenge
-*Winning submission demonstrating advanced mechanics and code architecture.*
+### 1st Place DevRel Challenge
+*My winning submission showcasing advanced mechanics and clean architecture.*
 [![DevRel Challenge](https://img.youtube.com/vi/YOUR_YOUTUBE_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_ID_HERE)
 
-### Applied Systems & Lead Developer Roles:
-* **Head Developer Roles:** Lead Scripter for titles like *Trade Tower Advanced* and *Test Your Jackpot Luck*.
+### Lead Developer Roles & Applied Systems:
+* **Head Developer Roles:** Lead Scripter for *Trade Tower Advanced* and *Test Your Jackpot Luck*.
 * **E F F Y UGC Shop** *(Upcoming)*: Programmed a complete UGC economy, custom avatar creator, dynamic leaderboards, and an interactive Picnic claim system.
-* **The Color Plex**: Implemented first-person mechanics, graphics optimization, interaction systems (doors, buttons), custom tools, and much more.
+* **The Color Plex**: Implemented first-person mechanics, graphics optimization, interaction systems (doors, buttons), and custom tools.
 * **Become SCP-096** *(32K+ Visits)*: Programmed core mechanics, player transformation logic, and interactive gameplay loops.
-* **Fifty Eight 58 Club BETA**: Implemented custom leveling systems, DJ/audio optimization, Gamepass-restricted zones, and real-time leaderboards.
+* **Fifty Eight 58 Club BETA**: Built custom leveling systems, DJ/audio optimization, Gamepass-restricted zones, and real-time leaderboards.
 
 ---
 
-## 💳 Pricing & Workflow
+## Pricing & Workflow
 
-I am **Open to Work** for short-term commissions, part-time projects, and task-based roles. I provide constant progress updates, code transparency, and post-delivery assistance.
+I'm currently open for short-term commissions, part-time projects, and specific tasks. I make sure to provide constant progress videos, keep my code transparent, and offer help even after the project is delivered.
 
 | Service Type | USD | Robux | Estimated Time |
 | :--- | :--- | :--- | :--- |
@@ -87,26 +89,24 @@ I am **Open to Work** for short-term commissions, part-time projects, and task-b
 
 ---
 
-## ⭐ Recent Client Reviews 
+## Client Reviews 
 
 **24+ Five-Star Reviews on Fiverr | 100% Satisfaction Rate**
 
 > *"First person I trusted, helped me grow, zero regrets. Quality work"* 
-> — **andres_herrera9** 🇲🇽 
+> — **andres_herrera9** 
 
 > *"Finished fast, exactly as requested, talented & responsive. Always impresses with skills. Professionalism exceeds expectations."* 
-> — **effyessias** 🇧🇷 
+> — **effyessias** 
 
 > *"Very professional, great attention to detail & cooperation"* 
-> — **mac_sapo** 🇲🇽 
+> — **mac_sapo** 
 
 ---
 
-## 📞 Let's Work Together!
+## Let's Work Together
 
-**Ready to take your game to the next level?** 
+If you want to talk about a project, feel free to reach out to me:
 *   **Discord:** `1yoyo` *(Fastest response)*
 *   **Fiverr:** [Hire me on Fiverr](https://www.fiverr.com/idevyoyo)
 *   **Roblox:** [iDevYoyo](https://www.roblox.com/users/YOUR_ROBLOX_ID/profile)
-
-*I will turn your ideas into code.*
