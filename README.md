@@ -36,6 +36,6 @@ I develop backend logic and core systems for virtual environments, focusing on s
 * Seeking software engineering and backend development internships for 2027.
 
 ## Contact
-* **Email:** [Your Professional Email]
-* **LinkedIn:** [Add your link here]
+* **Email:** elpedrolk@gmail.com
+* **LinkedIn:** www.linkedin.com/in/psanchezcomputin
 * **Discord:** 1yoyo
